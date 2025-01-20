@@ -37,9 +37,10 @@ public class roots_quadratic_eqaution {
         //testing..
         //System.out.println(  a+ " " + b + " " + c);
 
-        for (int i = 0; i <= coefficients.length()-1; i++) {
-            System.out.print(coefficients.charAt(i));
-        }
+        //checking for extracting the coefficients
+        // for (int i = 0; i <= coefficients.length()-1; i++) {
+        //     System.out.print(coefficients.charAt(i));
+        // }
 
     }
 }
